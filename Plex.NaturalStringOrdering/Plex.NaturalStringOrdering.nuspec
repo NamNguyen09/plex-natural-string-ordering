@@ -1,0 +1,21 @@
+﻿<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+	<metadata>
+		<id>Plex.NaturalStringOrdering</id>
+		<title>Plex.NaturalStringOrdering</title>
+		<version>8.0</version>
+		<authors>Tom Lee</authors>
+		<owners>Tom Lee</owners>
+		<projectUrl>https://github.com/NamNguyen09/plex-natural-string-ordering</projectUrl>
+		<license type="file">LICENSE.md</license>
+		<requireLicenseAcceptance>true</requireLicenseAcceptance>
+		<description>This is a project that help to sort string with natural.</description>
+		<readme>README.md</readme>
+		<releaseNotes>$releasenotes$</releaseNotes>
+	</metadata>
+	<files>
+		<file src="..\LICENSE.md" target="LICENSE.md" />
+		<file src="..\README.md" target="README.md" />
+		<!-- Include other necessary files -->
+	</files>
+</package>
